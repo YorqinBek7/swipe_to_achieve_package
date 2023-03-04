@@ -1,7 +1,7 @@
 name: swipe_to_achieve
 description: Simple swipe button to do something.
 version: 0.0.1
-homepage: https://github.com/YorqinBek7/swipe_to_achieve
+homepage: https://github.com/YorqinBek7/swipe_to_achieve_package
 
 environment:
   sdk: '>=2.19.3 <3.0.0'
